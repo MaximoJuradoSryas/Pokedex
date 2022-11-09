@@ -1,0 +1,43 @@
+
+body{
+    background-color: aquamarine;
+}
+
+
+#pokedex{
+    width: 20vw;
+    height: 60vh;
+    margin: 0 auto;
+    background-color: rgb(200, 21, 21);
+    border: 5px solid gold;
+    border-radius: 15px;
+    box-shadow: 21px 24px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 21px 24px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 21px 24px 5px 0px rgba(0,0,0,0.75);
+    padding: 15px;
+    display: block;
+    
+}
+
+#camara{
+    width:5vw;
+    height:5vh;
+    background-color: blue;
+}
+
+#screen{
+    width: 14vw;
+    height: 14vh;
+    background-color: rgb(212, 219, 225);
+    margin: 6vh;
+    text-align:  center;
+    border-radius: 5px;
+    border: 2px solid black;
+    justify-content: center;
+    
+}
+
+button{
+    border-radius: 50%;
+    background-color: yellow;
+}
